@@ -29,7 +29,7 @@ Parse Server is an open source backend that can be deployed to any infrastructur
 
 The full documentation for Parse Server is available in the [wiki](https://github.com/parse-community/parse-server/wiki). The [Parse Server guide](http://docs.parseplatform.org/parse-server/guide/) is a good place to get started. An [API reference](http://parseplatform.org/parse-server/api/) and [Cloud Code guide](https://docs.parseplatform.org/cloudcode/guide/) are also available. If you're interested in developing for Parse Server, the [Development guide](http://docs.parseplatform.org/parse-server/guide/#development-guide) will help you get set up.
 
----
+---Mrcharlee
 
 A big *thank you* 🙏 to our [sponsors](#sponsors) and [backers](#backers) who support the development of Parse Platform!
 
